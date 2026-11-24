@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 480 540" role="img" aria-labelledby="title description">
+  <title id="title">Estrategica Mente</title>
+  <desc id="description">Logo de Estrategica Mente</desc>
+  <g transform="translate(35 16) scale(.9)">
+    <path d="M24 16h100c48 14 78 57 78 107v117h46V123c0-50 30-93 78-107h50v260h-84V146h-34v94h-66v-94h-34v130H74V16Z" fill="none" stroke="#715AFF" stroke-linejoin="miter" stroke-width="10" />
+  </g>
+  <text x="240" y="374" fill="#A682FF" font-family="Arial, Helvetica, sans-serif" font-size="52" font-weight="800" text-anchor="middle" textLength="390" lengthAdjust="spacingAndGlyphs">ESTRATEGICA</text>
+  <text x="240" y="488" fill="#102E4A" font-family="Arial, Helvetica, sans-serif" font-size="108" font-weight="800" text-anchor="middle" textLength="390" lengthAdjust="spacingAndGlyphs">MENTE</text>
+</svg>
